@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pa_chong/1-爬虫基础概念.py" line="45" />
+    <bookmark url="file://$PROJECT_DIR$/pa_chong/1-爬虫基础概念.py" />
+    <bookmark url="file://$PROJECT_DIR$/pa_chong/14.2-soup_test.py" line="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d6533fe-2503-4991-848e-b0e80bb97dda" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/newWork$paqu_renrenwang.coverage" NAME="paqu_renrenwang Coverage Results" MODIFIED="1554551261329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$paqu_fanyi.coverage" NAME="paqu_fanyi Coverage Results" MODIFIED="1554540258485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$test_numpy.coverage" NAME="test_numpy Coverage Results" MODIFIED="1555819858185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/depp_learening" />
+    <SUITE FILE_PATH="coverage/newWork$suiji_lianxi.coverage" NAME="suiji_lianxi Coverage Results" MODIFIED="1551491996396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$phantomjs_test.coverage" NAME="phantomjs_test Coverage Results" MODIFIED="1554483454898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$biaoqingbaotiqu.coverage" NAME="biaoqingbaotiqu Coverage Results" MODIFIED="1558100063692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biaoqingbao_tiqu" />
+    <SUITE FILE_PATH="coverage/newWork$1_.coverage" NAME="1-爬虫基础概念 Coverage Results" MODIFIED="1551014522460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$Restaurant.coverage" NAME="Restaurant Coverage Results" MODIFIED="1551492994991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$gushjwen.coverage" NAME="gushjwen Coverage Results" MODIFIED="1557977719814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQL_data" />
+    <SUITE FILE_PATH="coverage/newWork$jieri.coverage" NAME="jieri Coverage Results" MODIFIED="1555421877336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jierizhufu" />
+    <SUITE FILE_PATH="coverage/newWork$23_requests.coverage" NAME="23-requests Coverage Results" MODIFIED="1554441483083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1551531891857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion" />
+    <SUITE FILE_PATH="coverage/newWork$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1555134864363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newWork$tiqu_gushiwen.coverage" NAME="tiqu_gushiwen Coverage Results" MODIFIED="1557979317241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/newWork$7_tieba.coverage" NAME="7-tieba Coverage Results" MODIFIED="1551090013046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$huashu.coverage" NAME="huashu Coverage Results" MODIFIED="1555648999487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kefuhuashu" />
+    <SUITE FILE_PATH="coverage/newWork$gushici_mysql.coverage" NAME="gushici_mysql Coverage Results" MODIFIED="1557979018684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/newWork$test_weibo.coverage" NAME="test_weibo Coverage Results" MODIFIED="1554983861270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paqu_gushiwen" />
+    <SUITE FILE_PATH="coverage/newWork$my_restaurant.coverage" NAME="my_restaurant Coverage Results" MODIFIED="1551493321994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$19_selenium.coverage" NAME="19-selenium Coverage Results" MODIFIED="1554478078127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$shipin_test.coverage" NAME="shipin_test Coverage Results" MODIFIED="1554570342053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$access_token.coverage" NAME="access_token Coverage Results" MODIFIED="1555070875716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wenzishibie" />
+    <SUITE FILE_PATH="coverage/newWork$QQ_qinghua.coverage" NAME="QQ_qinghua Coverage Results" MODIFIED="1555333009098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qinghua" />
+    <SUITE FILE_PATH="coverage/newWork$test.coverage" NAME="test Coverage Results" MODIFIED="1555732997852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihutaolun" />
+    <SUITE FILE_PATH="coverage/newWork$6_ajax.coverage" NAME="6-ajax Coverage Results" MODIFIED="1554442742342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$24_gongjiao.coverage" NAME="24-gongjiao Coverage Results" MODIFIED="1554555759372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$number_writer.coverage" NAME="number_writer Coverage Results" MODIFIED="1551507164420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1559186583928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paqu_gushiwen" />
+    <SUITE FILE_PATH="coverage/newWork$chaoci.coverage" NAME="chaoci Coverage Results" MODIFIED="1558100209289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wenzishibie" />
+    <SUITE FILE_PATH="coverage/newWork$17_duanzi.coverage" NAME="17-duanzi Coverage Results" MODIFIED="1554442772611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$paqu_zhilian.coverage" NAME="paqu_zhilian Coverage Results" MODIFIED="1554549868724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$12_biaoti_neirong.coverage" NAME="12-biaoti_neirong Coverage Results" MODIFIED="1550492516074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$test_chaoci.coverage" NAME="test_chaoci Coverage Results" MODIFIED="1555076073209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wenzishibie" />
+    <SUITE FILE_PATH="coverage/newWork$threading.coverage" NAME="threading Coverage Results" MODIFIED="1550492587357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong/two_part" />
+    <SUITE FILE_PATH="coverage/newWork$remember_me.coverage" NAME="remember_me Coverage Results" MODIFIED="1551509251617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$5_post.coverage" NAME="5-post Coverage Results" MODIFIED="1551014844172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$2_parse.coverage" NAME="2-parse Coverage Results" MODIFIED="1551018977149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+    <SUITE FILE_PATH="coverage/newWork$paqu_Jinritoutiao.coverage" NAME="paqu_Jinritoutiao Coverage Results" MODIFIED="1554523019633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$main_paqu.coverage" NAME="main_paqu Coverage Results" MODIFIED="1555131261344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paqu_gushiwen" />
+    <SUITE FILE_PATH="coverage/newWork$jiepai.coverage" NAME="jiepai Coverage Results" MODIFIED="1554516941351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_shizahn" />
+    <SUITE FILE_PATH="coverage/newWork$taolun.coverage" NAME="taolun Coverage Results" MODIFIED="1555675341609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihutaolun" />
+    <SUITE FILE_PATH="coverage/newWork$number_reader.coverage" NAME="number_reader Coverage Results" MODIFIED="1551507366256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi" />
+    <SUITE FILE_PATH="coverage/newWork$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1555685008506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihutaolun" />
+    <SUITE FILE_PATH="coverage/newWork$hotspot_mysql.coverage" NAME="hotspot_mysql Coverage Results" MODIFIED="1557984800614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/newWork$chaoci__1_.coverage" NAME="chaoci (1) Coverage Results" MODIFIED="1555121539787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wenzishibie" />
+    <SUITE FILE_PATH="coverage/newWork$11_.coverage" NAME="11-正则表达式 Coverage Results" MODIFIED="1551098509493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pa_chong" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/biaoqingbaotiqu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wenzishibie/access_token.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wenzishibie/test_chaoci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wenzishibie/name.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wenzishibie/chaoci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1029">
+              <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/paqu_gushiwen/weibo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="133" column="8" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/pictures2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10962">
+              <caret line="522" column="66" selection-start-line="522" selection-start-column="66" selection-end-line="522" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pachong_shizahn/paqu_Jinritoutiao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/alien_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/pa_chong/23-requests.py" />
+        <option value="$PROJECT_DIR$/pa_chong/19-selenium.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/phantomjs_test.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/jiepai.py" />
+        <option value="$PROJECT_DIR$/pa_chong/22-headlesschrom.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/paqu_zhilian.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/paqu_fanyi.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/paqu_renrenwang.py" />
+        <option value="$PROJECT_DIR$/pa_chong/24-gongjiao.py" />
+        <option value="$PROJECT_DIR$/scrapy/mySpider/mySpider/settings.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/shipin_test.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/test.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/siwen_message" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/siwen_message4.txt" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/test_weibo.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/redian.txt" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/redian2.txt" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/redian(4-11）.txt" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/chaoci.py" />
+        <option value="$PROJECT_DIR$/wenzishibie/access_token.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/pictures_url.txt" />
+        <option value="$PROJECT_DIR$/wenzishibie/test_chaoci.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/main_paqu.py" />
+        <option value="$PROJECT_DIR$/mysql.py" />
+        <option value="$PROJECT_DIR$/mysql/test.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/redian(4.13).txt" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/siwen_message.txt" />
+        <option value="$PROJECT_DIR$/qinghua/QQ_qinghua.py" />
+        <option value="$PROJECT_DIR$/kefuhuashu.py" />
+        <option value="$PROJECT_DIR$/jierizhufu/jieri.py" />
+        <option value="$PROJECT_DIR$/kefuhuashu/huashu.py" />
+        <option value="$PROJECT_DIR$/kefuhuashu/huashu.txt" />
+        <option value="$PROJECT_DIR$/zhihutaolun/fenlei.txt" />
+        <option value="$PROJECT_DIR$/zhihutaolun/taolun.py" />
+        <option value="$PROJECT_DIR$/pachong_shizahn/paqu_Jinritoutiao.py" />
+        <option value="$PROJECT_DIR$/zhihutaolun/test2.py" />
+        <option value="$PROJECT_DIR$/zhihutaolun/test.py" />
+        <option value="$PROJECT_DIR$/zhihutaolun/zhuti.txt" />
+        <option value="$PROJECT_DIR$/depp_learening/test_numpy.py" />
+        <option value="$PROJECT_DIR$/jierizhufu/update.py" />
+        <option value="$PROJECT_DIR$/SQL_data/gushjwen.py" />
+        <option value="$PROJECT_DIR$/mysql/gushici_mysql.py" />
+        <option value="$PROJECT_DIR$/mysql/tiqu_gushiwen.py" />
+        <option value="$PROJECT_DIR$/mysql/hotspot_mysql.py" />
+        <option value="$PROJECT_DIR$/biaoqingbao_tiqu/pictures.txt" />
+        <option value="$PROJECT_DIR$/biaoqingbao_tiqu/pictures2.txt" />
+        <option value="$PROJECT_DIR$/wenzishibie/name.txt" />
+        <option value="$PROJECT_DIR$/biaoqingbao_tiqu/biaoqingbaotiqu.py" />
+        <option value="$PROJECT_DIR$/wenzishibie/chaoci.py" />
+        <option value="$PROJECT_DIR$/paqu_gushiwen/weibo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="3" />
+    <option name="width" value="1401" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newWork" type="462c0819:PsiDirectoryNode" />
+              <item name="pa_chong" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="newWork" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Administrator\PycharmProjects\newWork" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/计算机网络/实验和课设/源代码" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tiqu_gushiwen">
+    <configuration name="biaoqingbaotiqu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/biaoqingbao_tiqu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biaoqingbao_tiqu/biaoqingbaotiqu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chaoci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wenzishibie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wenzishibie/chaoci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hotspot_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/hotspot_mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tiqu_gushiwen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql/tiqu_gushiwen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paqu_gushiwen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paqu_gushiwen/weibo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tiqu_gushiwen" />
+      <item itemvalue="Python.hotspot_mysql" />
+      <item itemvalue="Python.biaoqingbaotiqu" />
+      <item itemvalue="Python.chaoci" />
+      <item itemvalue="Python.weibo" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6533fe-2503-4991-848e-b0e80bb97dda" name="Default Changelist" comment="" />
+      <created>1547542065380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547542065380</updated>
+      <workItem from="1547542076336" duration="4020000" />
+      <workItem from="1547606369721" duration="9998000" />
+      <workItem from="1547724291599" duration="6151000" />
+      <workItem from="1547733057310" duration="8864000" />
+      <workItem from="1547776841487" duration="12801000" />
+      <workItem from="1547866453316" duration="16112000" />
+      <workItem from="1547920286288" duration="511000" />
+      <workItem from="1547954621970" duration="17892000" />
+      <workItem from="1548122553563" duration="601000" />
+      <workItem from="1548232333901" duration="1025000" />
+      <workItem from="1548315882109" duration="14812000" />
+      <workItem from="1548473849148" duration="8354000" />
+      <workItem from="1549528643682" duration="46000" />
+      <workItem from="1550822068857" duration="2865000" />
+      <workItem from="1550993401548" duration="8657000" />
+      <workItem from="1551089567961" duration="8035000" />
+      <workItem from="1551188942816" duration="1321000" />
+      <workItem from="1551267589059" duration="8722000" />
+      <workItem from="1551360273427" duration="1913000" />
+      <workItem from="1551490183615" duration="3222000" />
+      <workItem from="1551494682416" duration="8688000" />
+      <workItem from="1551794177791" duration="610000" />
+      <workItem from="1553921856930" duration="596000" />
+      <workItem from="1554010891147" duration="682000" />
+      <workItem from="1554391851714" duration="835000" />
+      <workItem from="1554432828799" duration="3913000" />
+      <workItem from="1554443591782" duration="1532000" />
+      <workItem from="1554456904755" duration="35269000" />
+      <workItem from="1554635036087" duration="3396000" />
+      <workItem from="1554714005147" duration="22985000" />
+      <workItem from="1554873855052" duration="45000" />
+      <workItem from="1554885279491" duration="16031000" />
+      <workItem from="1554967660971" duration="12890000" />
+      <workItem from="1555034720536" duration="17031000" />
+      <workItem from="1555068474934" duration="11361000" />
+      <workItem from="1555121174375" duration="31907000" />
+      <workItem from="1555220347792" duration="5000000" />
+      <workItem from="1555324304599" duration="492000" />
+      <workItem from="1555324823399" duration="9813000" />
+      <workItem from="1555409503130" duration="12807000" />
+      <workItem from="1555514230963" duration="9369000" />
+      <workItem from="1555641316347" duration="24592000" />
+      <workItem from="1555724537163" duration="10366000" />
+      <workItem from="1555817767797" duration="3267000" />
+      <workItem from="1555849235465" duration="1393000" />
+      <workItem from="1555985220503" duration="4491000" />
+      <workItem from="1556107623417" duration="2996000" />
+      <workItem from="1556186009698" duration="639000" />
+      <workItem from="1556194515755" duration="873000" />
+      <workItem from="1556242216644" duration="9292000" />
+      <workItem from="1556628328589" duration="1821000" />
+      <workItem from="1556972100948" duration="1590000" />
+      <workItem from="1556981239262" duration="3069000" />
+      <workItem from="1557064188945" duration="807000" />
+      <workItem from="1557292099793" duration="5679000" />
+      <workItem from="1557548226812" duration="1218000" />
+      <workItem from="1557843999348" duration="1969000" />
+      <workItem from="1557975055392" duration="10860000" />
+      <workItem from="1558093282815" duration="8019000" />
+      <workItem from="1558359690617" duration="2113000" />
+      <workItem from="1558442475757" duration="1050000" />
+      <workItem from="1559119552529" duration="3921000" />
+      <workItem from="1561526484188" duration="880000" />
+      <workItem from="1561529392291" duration="40000" />
+      <workItem from="1561658355871" duration="200000" />
+      <workItem from="1561658756641" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="444198000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="3" width="1401" height="822" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21103653" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.74972916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.21320346" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.7063922" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.44121915" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/sheying.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/sheying2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa_chong/21-chinaunix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa_chong/20-selenium_PhantomJS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/数据库备份/chaoci.json" />
+    <entry file="file://$USER_HOME$/Desktop/数据库备份/gushiwen.json" />
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/weibo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qinghua/QQ_qinghua.py" />
+    <entry file="file://$PROJECT_DIR$/lianxi/my_restaurant.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/number_reader.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/number_writer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/numbers.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/Restaurant.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/suiji_lianxi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depp_learening/test_numpy.py" />
+    <entry file="file://$PROJECT_DIR$/alien_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/username.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jierizhufu/jieri.py" />
+    <entry file="file://$PROJECT_DIR$/jierizhufu/update.py" />
+    <entry file="file://$PROJECT_DIR$/kefuhuashu/huashu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2667">
+          <caret line="127" column="21" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding>
+            <element signature="e#2#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/zhuti.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kefuhuashu.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihutaolun/taolun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/mysql_data/gushiwen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL_data/gushjwen.py" />
+    <entry file="file://$PROJECT_DIR$/pachong_shizahn/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/main_paqu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/gushici_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/test.py" />
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/siwen_message.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/tiqu_gushiwen.py" />
+    <entry file="file://$PROJECT_DIR$/mysql/hotspot_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/pictures2" />
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/pictures.txt" />
+    <entry file="file://$PROJECT_DIR$/pachong_shizahn/shipin_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/chaoci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/test_weibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/chaoci.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/lihai_pictures/79313.gif" />
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/lihai_pictures/336490.gif" />
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/biaoqingbaotiqu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenzishibie/access_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenzishibie/test_chaoci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenzishibie/name.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenzishibie/chaoci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biaoqingbao_tiqu/pictures2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10962">
+          <caret line="522" column="66" selection-start-line="522" selection-start-column="66" selection-end-line="522" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_shizahn/paqu_Jinritoutiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paqu_gushiwen/weibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="133" column="8" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
